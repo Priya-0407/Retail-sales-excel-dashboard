@@ -1,4 +1,4 @@
-Retail Sales Analysis Dashboard - Style Avenue (Excel)
+##Retail Sales Analysis Dashboard - Style Avenue (Excel)
 
 Tools used: Microsoft Excel — Pivot Tables, Pivot Charts, IF & TEXT Formulas, Slicers
 
