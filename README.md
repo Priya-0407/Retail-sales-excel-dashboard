@@ -2,7 +2,7 @@
 
 *Tools used:* Microsoft Excel — Pivot Tables, Pivot Charts, IF & TEXT Formulas, Slicers
 ----
-# Overview:
+### Overview:
 E-commerce businesses generate large volumes of transaction-level data, but raw data alone doesn't drive decisions, it needs to be cleaned, structured, and turned into a story. This project analyzes a year of retail order data (i.e. 2022) to answer a core business question: who is buying, when, and through which channel, and how should that shape the 2023 sales strategy?
 
 # Dataset:
